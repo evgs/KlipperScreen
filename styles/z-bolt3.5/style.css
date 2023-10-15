@@ -69,9 +69,14 @@ entry {
     border-color: #13181C;
 }
 
+
 label {
     color: white;
     font-size: 13;
+}
+
+.numpad{
+    margin-top: 12px;
 }
 
 menu {
