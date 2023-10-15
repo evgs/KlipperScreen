@@ -71,7 +71,7 @@ entry {
 
 label {
     color: white;
-    text-size-adjust: 20;
+    font-size: 20;
 }
 
 menu {
